@@ -1,0 +1,19 @@
+{
+  "selected_model": "hgb_shallow",
+  "validation_strategy": "time_based_split_cutoff_2025-10-01",
+  "primary_metric": "mae",
+  "selection_row": {
+    "model": "hgb_shallow",
+    "seed": 42,
+    "train_seconds": 2.277,
+    "train_mae": 83.29516363576164,
+    "train_rmse": 582.9257735794895,
+    "valid_mae": 127.5349383878672,
+    "valid_rmse": 648.9627692377584,
+    "valid_mape": 0.05733277296121529
+  },
+  "full_train_mae": 83.8064560065466,
+  "full_train_rmse": 589.003817869725,
+  "full_train_fit_seconds": 2.2975460999987263,
+  "n_development_rows": 48000
+}
